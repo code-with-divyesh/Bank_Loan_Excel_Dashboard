@@ -93,16 +93,36 @@ This project analyzes loan applications, funded amounts, repayments, borrower pr
 
 ---
 
-# 📷 Dashboard Preview
 
-## Summary
-![Summary](images/Summary.png)
 
-## Overview
-![Overview](images/Overview.png)
+# 📸 Dashboard Preview
 
-## Details
-![Details](images/Details.png)
+## 📊 Summary Dashboard
+![Summary](Images/Summary.png)
+
+---
+
+## 📊 Summary (Excel Version)
+![Summary Excel](Images/Summary_Excel.png)
+
+---
+
+## 📈 Overview Dashboard
+![Overview](Images/Overview.png)
+
+---
+
+## 📈 Overview (Excel Version)
+![Overview Excel](Images/Overview_Excel.png)
+
+---
+
+## 📋 Details Dashboard
+![Details](Images/Details.png)
+
+---
+
+
 
 ---
 
