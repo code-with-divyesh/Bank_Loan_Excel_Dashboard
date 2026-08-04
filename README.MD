@@ -188,11 +188,9 @@ The Power BI dashboard consists of **3 interactive report pages** featuring:
 
 ---
 
-## 📋 Details (Excel Version)
 
-![Details Excel](Images/Details_Excel.png)
 
----
+
 
 # 📂 Repository Structure
 
